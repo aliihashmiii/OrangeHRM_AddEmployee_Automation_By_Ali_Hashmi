@@ -1,3 +1,7 @@
+## About the Author
+
+This project was developed and maintained by **Ali Hashmi** — Business student delving into DevOps by replacing 4 years of university knowledge with self-learning.
+
 # OrangeHRM Add Employee Automation
 
 This repository contains a fully automated test suite for the **Add Employee** feature in the OrangeHRM web application. Built using Selenium WebDriver with Python and PyTest, the project follows the **Page Object Model (POM)** architecture for clarity, scalability, and maintenance.
@@ -85,8 +89,6 @@ Workflow file: `.github/workflows/run-tests.yml`
 
 ---
 
-## About the Author
 
-This project was developed and maintained by **Ali Hashmi** — a test automation enthusiast passionate about writing clean, scalable, and production-ready quality assurance scripts using modern tools and frameworks.
 
 ---
